@@ -1,0 +1,12 @@
+name: dataprep
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.7
+ - pandas
+ - pytest
+ - isort
+ - pre-commit
+ - flake8
+ - pip
